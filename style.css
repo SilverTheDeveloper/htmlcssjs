@@ -1,5 +1,11 @@
-@media (min-width: 360px) {
+@media (min-width: 360px)  {
     #first, #second, #third, #fourth{
         height: 25vh;
+    } 
+}
+
+@media (min-width: 1280px)  {
+    #first, #second, #third, #fourth{
+        height: 90vh;
     } 
 }
